@@ -1,0 +1,9 @@
+c:\users\ricardo\documents\visual studio 2015\Projects\CSharp_01\CSharp_01\bin\Debug\CSharp_01.exe.config
+c:\users\ricardo\documents\visual studio 2015\Projects\CSharp_01\CSharp_01\bin\Debug\CSharp_01.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\CSharp_01\CSharp_01\bin\Debug\CSharp_01.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\CSharp_01\CSharp_01\obj\Debug\CSharp_01.csprojResolveAssemblyReference.cache
+c:\users\ricardo\documents\visual studio 2015\Projects\CSharp_01\CSharp_01\obj\Debug\CSharp_01.frm_Aplicativo.resources
+c:\users\ricardo\documents\visual studio 2015\Projects\CSharp_01\CSharp_01\obj\Debug\CSharp_01.Properties.Resources.resources
+c:\users\ricardo\documents\visual studio 2015\Projects\CSharp_01\CSharp_01\obj\Debug\CSharp_01.csproj.GenerateResource.Cache
+c:\users\ricardo\documents\visual studio 2015\Projects\CSharp_01\CSharp_01\obj\Debug\CSharp_01.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\CSharp_01\CSharp_01\obj\Debug\CSharp_01.pdb

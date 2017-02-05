@@ -1,0 +1,9 @@
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Analisador\V.02\Analisador\bin\Debug\Analisador.exe.config
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Analisador\V.02\Analisador\bin\Debug\Analisador.exe
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Analisador\V.02\Analisador\bin\Debug\Analisador.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Analisador\V.02\Analisador\obj\Debug\Analisador.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Analisador\V.02\Analisador\obj\Debug\Analisador.frm_Aplicativo.resources
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Analisador\V.02\Analisador\obj\Debug\Analisador.Properties.Resources.resources
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Analisador\V.02\Analisador\obj\Debug\Analisador.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Analisador\V.02\Analisador\obj\Debug\Analisador.exe
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Analisador\V.02\Analisador\obj\Debug\Analisador.pdb
